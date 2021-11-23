@@ -1,0 +1,11 @@
+Sun Chips::2.0::6
+Water::2.25::8
+Gardetto's::3.5::4
+Gatorade::3.0::0
+Granola Bar::1.5::2
+Pretzels::3.0::7
+Cheetos::2.5::9
+Reese's::1.25::2
+Pop-Tarts::2.75::1
+Chex Mix::3.25::8
+Cheez-its::2.5::5
